@@ -1,3 +1,8 @@
 1 - Remover linhas em branco:
  - Abrir no power query, selecionar a tabela, selecionar a aba página incial
  - Clicar no botão Reduzir Linhas, Remover linhas em branco
+
+2 - Verificar se a tabela está com as informações devidamente dispostas. Ex: Verificar se
+estão crescendo em colunas e crescendo para baixo. (Editar no Power Query)
+
+3 - Verificar se as células não estão mescladas. (Editar no Power Query)
