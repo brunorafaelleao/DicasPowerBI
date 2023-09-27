@@ -2,7 +2,10 @@
  - Abrir no power query, selecionar a tabela, selecionar a aba página incial
  - Clicar no botão Reduzir Linhas, Remover linhas em branco
 
-2 - Verificar se a tabela está com as informações devidamente dispostas. Ex: Verificar se
-estão crescendo em colunas e crescendo para baixo. (Editar no Power Query)
+2 - Verificar se a tabela está na forma correta.  (Editar no Power Query)
+ - Cada coluna só pode ter um tipo informação. 
+ - Cada linha tem de representar uma única movimentação
+ - Abrir a planilha para no Power Query para Editar.
+ - Selecionar as colunas, clicar com o botão direito do mouse e selecionar a opção "Transformar colunas em linhas"
 
 3 - Verificar se as células não estão mescladas. (Editar no Power Query)
