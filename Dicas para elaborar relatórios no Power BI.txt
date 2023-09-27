@@ -1,0 +1,3 @@
+1 - Remover linhas em branco:
+ - Abrir no power query, selecionar a tabela, selecionar a aba página incial
+ - Clicar no botão Reduzir Linhas, Remover linhas em branco
