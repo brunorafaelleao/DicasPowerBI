@@ -9,3 +9,9 @@
  - Selecionar as colunas, clicar com o botão direito do mouse e selecionar a opção "Transformar colunas em linhas"
 
 3 - Verificar se as células não estão mescladas. (Editar no Power Query)
+
+Funções:
+
+1 - Para saber se o valor de uma tabela está presente em outra:
+  função: contains(nome da tabela onde o valor está sendo procurado,
+  coluna da tabela onde o valor está sendo procurado, coluna do valor procurado)
