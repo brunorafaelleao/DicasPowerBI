@@ -15,3 +15,6 @@ Funções:
 1 - Para saber se o valor de uma tabela está presente em outra:
   função: contains(nome da tabela onde o valor está sendo procurado,
   coluna da tabela onde o valor está sendo procurado, coluna do valor procurado)
+
+2 - Calcular a idade ou diferença de datas em anos:
+   função: datediff(data inicial, data final, year) obs: para meses month
