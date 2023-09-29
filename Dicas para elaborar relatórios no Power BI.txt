@@ -10,6 +10,10 @@
 
 3 - Verificar se as células não estão mescladas. (Editar no Power Query)
 
+4 - Identificar as tabelas fatos e tabelas de características
+  - Tabelas Fato são maiores e representam movimentos
+  - Tabelas características são menores e representam atributos (gênero, preço, cor etc)
+
 Funções:
 
 1 - Para saber se o valor de uma tabela está presente em outra:
