@@ -28,3 +28,16 @@ Funções:
 
 2 - Calcular a idade ou diferença de datas em anos:
    função: datediff(data inicial, data final, year) obs: para meses month
+
+3 - Trabalhando com várias condições usando SWITCH ao invés de IF
+    switch(true(),condição1,"resposta", condição2,"resposta"...
+    exemplo1: Dividir por faixa etária.
+       switch(true(),
+        dcliente[idade]<=19, "jovem",
+        dcliente[idade]<=59, "adulto",
+         "senior")
+    exemplo2: switch(coluna,
+        "Pós Graduação",0.2,
+        "Superior Completo, 0.1,
+        "Superior Incompleto",0.05,
+        0)
